@@ -289,5 +289,6 @@
     "takeoff.theVersionIsDifferent": "Az alkalmazás és a file verziója különbözik. Ezt a file-it itt tudod megnyitni: godritron.com/bid",
     "takeoff.tryToEndTheMeasurement": "Az elem rajzolásának befejezése, véglegesítése.",
     "takeoff.deleteThePreviousPoint": "Az elem előző pontjának törlése..",
-    "takeoff.deleteTheShapeUnderConstruction": "A szerkesztés alatt álló elem törlése."
+    "takeoff.deleteTheShapeUnderConstruction": "A szerkesztés alatt álló elem törlése.",
+    "readcookieAndTermsOfUse": "A folytatás előtt kérjük, olvassa el a cookie szabályzatot és a felhasználási feltételeket ezen az oldalon."
 }

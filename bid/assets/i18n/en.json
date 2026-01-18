@@ -289,5 +289,6 @@
     "takeoff.theVersionIsDifferent": "The application and the file version are different. To open this file visit this site: godritron.com/bid",
     "takeoff.tryToEndTheMeasurement": "Try to end the measurement shape.",
     "takeoff.deleteThePreviousPoint": "Delete the previous point of the measurement shape.",
-    "takeoff.deleteTheShapeUnderConstruction": "Delete the measurement shape which is currentli under creation."
+    "takeoff.deleteTheShapeUnderConstruction": "Delete the measurement shape which is currentli under creation.",
+    "readcookieAndTermsOfUse": "Before continuing, please read the cookie policy and the terms of use on this page."
 }
